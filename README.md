@@ -1,1 +1,3 @@
 This repository contains notes I made as part of my reading project with Dr. Chandrakala Meena from the textbook "Introduction to the Theory of Complex Systems" by Stefan Thurner et al., on tools used to model various systems across complexity science. A copy of the textbook has been attached for reference, and notes may be found in a labelled subfolder. I also tried simulating some of these models, the code for which may be found in this repository as well.
+
+_Note: this repo is still incomplete with some of the code and notes I've made over the course of this semester. I will push the complete set of files later on towards the end of this reading project._
